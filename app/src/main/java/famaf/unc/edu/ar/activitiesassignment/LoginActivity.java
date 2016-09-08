@@ -215,7 +215,6 @@ public class LoginActivity extends AppCompatActivity  {
                 output.putExtra("mEmail", mEmail);
                 setResult(RESULT_OK, output);
                 finish();
-                finish();
             } else {
                 mPasswordView.setError(getString(R.string.error_incorrect_password));
                 mPasswordView.requestFocus();
