@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lector de Reddit</string>
+    <string name="action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="action_sign_out">Cerrar Sesión</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_invalid_email">E-mail invalido</string>
+    <string name="error_invalid_password">Contraseña muy corta</string>
+    <string name="permission_rationale">"Se necesitan poder leer los contactos para el autocompletado de emails."</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="title_activity_news">"Lector de Reddit"</string>
+</resources>
