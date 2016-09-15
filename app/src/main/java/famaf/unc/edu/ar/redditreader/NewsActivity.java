@@ -30,10 +30,11 @@ public class NewsActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         if (id == R.id.action_sign_in) {
-            NewsActivityFragment newsfragment = (NewsActivityFragment)
+            /*NewsActivityFragment newsfragment = (NewsActivityFragment)
                     getSupportFragmentManager().findFragmentById(R.id.news_activity_fragment_id);
             TextView textView = (TextView) findViewById(R.id.loginStatusTextView);
             textView.setText("User XXXX logged in");
+            */
             return true;
         }
 
